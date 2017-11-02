@@ -1,0 +1,9 @@
+{
+  "parent": "block/orientable",
+  "textures": {
+    "top": "pti:blocks/aphroditium_ore",
+    "front": "pti:blocks/aphroditium_ore",
+    "side": "pti:blocks/aphroditium_ore",
+    "down": "pti:blocks/aphroditium_ore"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "parent": "block/orientable",
+  "textures": {
+    "top": "pti:blocks/blockcasing_dilithiumredsteel",
+    "front": "pti:blocks/blockcasing_dilithiumredsteel",
+    "side": "pti:blocks/blockcasing_dilithiumredsteel",
+    "down": "pti:blocks/blockcasing_dilithiumredsteel"
+  }
+}

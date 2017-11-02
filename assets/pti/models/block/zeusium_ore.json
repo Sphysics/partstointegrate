@@ -1,0 +1,9 @@
+{
+  "parent": "block/orientable",
+  "textures": {
+    "top": "pti:blocks/zeusium_ore",
+    "front": "pti:blocks/zeusium_ore",
+    "side": "pti:blocks/zeusium_ore",
+    "down": "pti:blocks/zeusium_ore"
+  }
+}

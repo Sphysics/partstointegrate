@@ -1,0 +1,9 @@
+{
+  "parent": "block/orientable",
+  "textures": {
+    "top": "pti:blocks/blockcasing_psigem",
+    "front": "pti:blocks/blockcasing_psigem",
+    "side": "pti:blocks/blockcasing_psigem",
+    "down": "pti:blocks/blockcasing_psigem"
+  }
+}

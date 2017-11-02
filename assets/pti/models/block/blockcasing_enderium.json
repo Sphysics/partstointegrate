@@ -1,0 +1,9 @@
+{
+  "parent": "block/orientable",
+  "textures": {
+    "top": "pti:blocks/blockcasing_enderium",
+    "front": "pti:blocks/blockcasing_enderium",
+    "side": "pti:blocks/blockcasing_enderium",
+    "down": "pti:blocks/blockcasing_enderium"
+  }
+}

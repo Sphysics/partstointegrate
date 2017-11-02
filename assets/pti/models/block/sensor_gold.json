@@ -1,0 +1,9 @@
+{
+  "parent": "block/orientable",
+  "textures": {
+    "top": "pti:blocks/sensor_gold",
+    "front": "pti:blocks/sensor_gold",
+    "side": "pti:blocks/sensor_gold",
+    "down": "pti:blocks/sensor_gold"
+  }
+}

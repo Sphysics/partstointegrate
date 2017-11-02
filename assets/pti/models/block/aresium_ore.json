@@ -1,0 +1,9 @@
+{
+  "parent": "block/orientable",
+  "textures": {
+    "top": "pti:blocks/aresium_ore",
+    "front": "pti:blocks/aresium_ore",
+    "side": "pti:blocks/aresium_ore",
+    "down": "pti:blocks/aresium_ore"
+  }
+}

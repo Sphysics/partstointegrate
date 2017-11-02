@@ -1,0 +1,9 @@
+{
+  "parent": "block/orientable",
+  "textures": {
+    "top": "pti:blocks/blockcasing_empowereddiamatine",
+    "front": "pti:blocks/blockcasing_empowereddiamatine",
+    "side": "pti:blocks/blockcasing_empowereddiamatine",
+    "down": "pti:blocks/blockcasing_empowereddiamatine"
+  }
+}

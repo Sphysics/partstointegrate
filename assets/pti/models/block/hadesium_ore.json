@@ -1,0 +1,9 @@
+{
+  "parent": "block/orientable",
+  "textures": {
+    "top": "pti:blocks/hadesium_ore",
+    "front": "pti:blocks/hadesium_ore",
+    "side": "pti:blocks/hadesium_ore",
+    "down": "pti:blocks/hadesium_ore"
+  }
+}

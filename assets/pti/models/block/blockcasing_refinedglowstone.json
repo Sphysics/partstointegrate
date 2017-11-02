@@ -1,0 +1,9 @@
+{
+  "parent": "block/orientable",
+  "textures": {
+    "top": "pti:blocks/blockcasing_refinedglowstone",
+    "front": "pti:blocks/blockcasing_refinedglowstone",
+    "side": "pti:blocks/blockcasing_refinedglowstone",
+    "down": "pti:blocks/blockcasing_refinedglowstone"
+  }
+}

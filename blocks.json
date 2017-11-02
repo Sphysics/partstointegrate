@@ -1,0 +1,237 @@
+{
+  "blocks": [
+    {
+      "type": "block:simple",
+      "entries": [
+        {
+          "id": "blockcasing_livingrock",
+          "creativeTab": "pti",
+          "material": "iron",
+          "itemModel":"pti:blockcasing_livingrock",
+          "hardness": 1,
+          "drop":"pti:blockcasing_duskstone"
+        },
+        {
+          "id": "blockcasing_empowereddiamatine",
+          "creativeTab": "pti",
+          "material": "iron",
+          "itemModel":"pti:blockcasing_empowereddiamatine",
+          "hardness": 1,
+          "drop":"pti:blockcasing_empowereddiamatine"
+        },
+        {
+          "id": "blockcasing_starmetal",
+          "creativeTab": "pti",
+          "material": "iron",
+          "itemModel":"pti:blockcasing_starmetal",
+          "hardness": 1,
+          "drop":"pti:blockcasing_starmetal"
+        },
+        {
+          "id": "blockcasing_steel",
+          "creativeTab": "pti",
+          "material": "iron",
+          "itemModel":"pti:blockcasing_steel",
+          "hardness": 1,
+          "drop":"pti:blockcasing_steel"
+        },
+        {
+          "id": "blockcasing_psigem",
+          "creativeTab": "pti",
+          "material": "iron",
+          "itemModel":"pti:blockcasing_psigem",
+          "hardness": 1,
+          "drop":"pti:blockcasing_psigem"
+        },
+        {
+          "id": "blockcasing_terrasteel",
+          "creativeTab": "pti",
+          "material": "iron",
+          "itemModel":"pti:blockcasing_terrasteel",
+          "hardness": 1,
+          "drop":"pti:lockcasing_terrasteel"
+        },
+        {
+          "id": "blockcasing_bedrock",
+          "creativeTab": "pti",
+          "material": "iron",
+          "itemModel":"pti:blockcasing_bedrock",
+          "hardness": 1,
+          "drop":"pti:blockcasing_bedrock"
+        },
+        {
+          "id": "blockcasing_manasteel",
+          "creativeTab": "pti",
+          "material": "iron",
+          "itemModel":"pti:blockcasing_manasteel",
+          "hardness": 1,
+          "drop":"pti:blockcasing_manasteel"
+        },
+        {
+          "id": "blockcasing_blackquartz",
+          "creativeTab": "pti",
+          "material": "iron",
+          "itemModel":"pti:blockcasing_blackquartz",
+          "hardness": 1,
+          "drop":"pti:blockcasing_blackquartz"
+        },
+        {
+          "id": "blockcasing_duskstone",
+          "creativeTab": "pti",
+          "material": "iron",
+          "itemModel":"pti:blockcasing_duskstone",
+          "hardness": 1,
+          "drop":"pti:blockcasing_duskstone"
+        },
+        {
+          "id": "blockcasing_awakenedraconium",
+          "creativeTab": "pti",
+          "material": "iron",
+          "itemModel":"pti:blockcasing_awakenedraconium",
+          "hardness": 1,
+          "drop":"pti:blockcasing_awakenedraconium"
+        },
+        {
+          "id": "blockcasing_dilithiumredsteel",
+          "creativeTab": "pti",
+          "material": "iron",
+          "itemModel":"pti:blockcasing_dilithiumredsteel",
+          "hardness": 1,
+          "drop":"pti:blockcasing_dilithiumredsteel"
+        },
+        {
+          "id": "blockcasing_elementium",
+          "creativeTab": "pti",
+          "material": "iron",
+          "itemModel":"pti:blockcasing_elementium",
+          "hardness": 1,
+          "drop":"pti:blockcasing_elementium"
+        },
+        {
+          "id": "blockcasing_enderium",
+          "creativeTab": "pti",
+          "material": "iron",
+          "itemModel":"pti:blockcasing_enderium",
+          "hardness": 1,
+          "drop":"pti:blockcasing_enderium"
+        },
+        {
+          "id": "blockcasing_refinedglowstone",
+          "creativeTab": "pti",
+          "material": "iron",
+          "itemModel":"pti:blockcasing_refinedglowstone",
+          "hardness": 1,
+          "drop":"pti:blockcasing_refinedglowstone"
+        },
+        {
+          "id": "ouranosium_ore",
+          "creativeTab": "pti",
+          "material": "iron",
+          "itemModel":"pti:ouranosium_ore",
+          "hardness": 1,
+          "drop":"pti:ouranosium_ore"
+        },
+        {
+          "id": "aphroditium_ore",
+          "creativeTab": "pti",
+          "material": "iron",
+          "itemModel":"pti:aphroditium_ore",
+          "hardness": 1,
+          "drop":"pti:aphroditium_ore"
+        },
+        {
+          "id": "aresium_ore",
+          "creativeTab": "pti",
+          "material": "iron",
+          "itemModel":"pti:aresium_ore",
+          "hardness": 1,
+          "drop":"pti:aresium_ore"
+        },
+        {
+          "id": "cronusium_ore",
+          "creativeTab": "pti",
+          "material": "iron",
+          "itemModel":"pti:cronusium_ore",
+          "hardness": 1,
+          "drop":"pti:cronusium_ore"
+        },
+        {
+          "id": "hadesium_ore",
+          "creativeTab": "pti",
+          "material": "iron",
+          "itemModel":"pti:hadesium_ore",
+          "hardness": 1,
+          "drop":"pti:hadesium_ore"
+        },
+        {
+          "id": "hermesium_ore",
+          "creativeTab": "pti",
+          "material": "iron",
+          "itemModel":"pti:hermesium_ore",
+          "hardness": 1,
+          "drop":"pti:hermesium_ore"
+        },
+        {
+          "id": "poseidium_ore",
+          "creativeTab": "pti",
+          "material": "iron",
+          "itemModel":"pti:poseidium_ore",
+          "hardness": 1,
+          "drop":"pti:poseidium_ore"
+        },
+        {
+          "id": "zeusium_ore",
+          "creativeTab": "pti",
+          "material": "iron",
+          "itemModel":"pti:zeusium_ore",
+          "hardness": 1,
+          "drop":"pti:zeusium_ore"
+        }
+      ]
+    },
+
+    
+    {
+      "type": "block:simple",
+      "entries": [
+        {
+          "id": "small_cube",
+          "creativeTab": {
+            "0": "tools",
+            "1": "pti"
+          },
+          "material": "iron",
+          "hardness": 1,
+          "opacity": 0,
+          
+          "isFullCube": true,
+          "isOpaqueCube": false,
+          "tint": "foliage",
+          "itemTint": "ffaa0000",
+          "canSilkHarvest": false,
+          "harvestTool": "axe",
+          "harvestLevel": 3,
+          "canPlaceOnCeiling": false
+        }
+      ]
+    },
+    {
+      "type": "block:fluid",
+      "entries": [
+
+        {
+          "id": "moltenduskstone",
+          "creativeTab": "examplemod",
+          "material": "lava",
+          "texStill": "pti:blocks/fluid_still",
+          "texFlowing": "pti:blocks/fluid_flow",
+          "canCreateSource": false,
+          "canPlaceOnCeiling": false,
+          "canPlaceOnFloor": false,
+          "canPlaceOnSides": false,
+          "isBurning": true
+        }
+      ]
+    }
+  ]
+}

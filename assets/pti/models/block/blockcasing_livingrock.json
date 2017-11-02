@@ -1,0 +1,9 @@
+{
+  "parent": "block/orientable",
+  "textures": {
+    "top": "pti:blocks/blockcasing_livingrock",
+    "front": "pti:blocks/blockcasing_livingrock",
+    "side": "pti:blocks/blockcasing_livingrock",
+    "down": "pti:blocks/blockcasing_livingrock"
+  }
+}

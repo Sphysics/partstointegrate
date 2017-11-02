@@ -1,0 +1,9 @@
+{
+  "parent": "block/orientable",
+  "textures": {
+    "top": "pti:blocks/blockcasing_awakenedraconium",
+    "front": "pti:blocks/blockcasing_awakenedraconium",
+    "side": "pti:blocks/blockcasing_awakenedraconium",
+    "down": "pti:blocks/blockcasing_awakenedraconium"
+  }
+}

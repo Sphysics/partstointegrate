@@ -1,0 +1,9 @@
+{
+  "parent": "block/orientable",
+  "textures": {
+    "top": "pti:blocks/blockcasing_duskstone",
+    "front": "pti:blocks/blockcasing_duskstone",
+    "side": "pti:blocks/blockcasing_duskstone",
+    "down": "pti:blocks/blockcasing_duskstone"
+  }
+}

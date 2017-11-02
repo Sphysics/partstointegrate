@@ -1,0 +1,64 @@
+{
+  "items": [
+    {
+      "type": "item:simple",
+      "entries": [
+        {
+          "id": "blend",
+          "model": "pti:blend",
+          "creativeTab":"pti"
+        },
+        {
+          "id": "bedrockCrystal",
+          "model": "pti:bedrock_crystal",
+          "creativeTab":"pti"
+        },
+        {
+          "id": "shard",
+          "model": "pti:shard",
+          "creativeTab":"pti"
+        },
+        {
+          "id": "brick",
+          "model": "pti:brick",
+          "creativeTab":"pti"
+        },
+        {
+          "id": "duskstoneIngot",
+          "model": "pti:duskstone_ingot",
+          "creativeTab":"pti"
+        },
+        {
+          "id": "empoweredCopperIngot",
+          "model": "pti:empowered_copper",
+          "creativeTab":"pti"
+        },
+        {
+          "id": "empoweredLeadIngot",
+          "model": "pti:empowered_lead",
+          "creativeTab":"pti"
+        },
+        {
+          "id": "empoweredSilverIngot",
+          "model": "pti:empowered_silver",
+          "creativeTab":"pti"
+        },
+        {
+          "id": "empoweredGoldIngot",
+          "model": "pti:empowered_gold",
+          "creativeTab":"pti"
+        },
+        {
+          "id": "empoweredSteelIngot",
+          "model": "pti:empowered_steel",
+          "creativeTab":"pti"
+        },
+        {
+          "id": "empoweredAluminum",
+          "model": "pti:empowered_aluminum",
+          "creativeTab":"pti"
+        }
+      ]
+    }
+  ]
+}

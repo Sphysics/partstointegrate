@@ -1,0 +1,42 @@
+{
+  "content": [
+    {
+      "file": "items.json"
+    },
+    {
+      "file": "blocks.json"
+    },
+    {
+      "type": "creativeTab",
+      "entries": [
+        {
+          "id": "pti",
+          "icon": "pti:duskstone_ingot"
+        }
+      ]
+    },    
+    {
+      "type": "imc",
+      "entries": [
+        {
+          "type": "string",
+          "modId": "customstuff4",
+          "key": "test",
+          "value": "example value"
+        }
+      ]
+    }
+
+  ]
+}
+
+
+
+
+
+
+
+
+
+
+

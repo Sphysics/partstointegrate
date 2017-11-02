@@ -1,0 +1,9 @@
+{
+  "parent": "block/orientable",
+  "textures": {
+    "top": "pti:blocks/sensor_iron",
+    "front": "pti:blocks/sensor_iron",
+    "side": "pti:blocks/sensor_iron",
+    "down": "pti:blocks/sensor_iron"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "parent": "block/orientable",
+  "textures": {
+    "top": "pti:blocks/blockcasing_blackquartz",
+    "front": "pti:blocks/blockcasing_blackquartz",
+    "side": "pti:blocks/blockcasing_blackquartz",
+    "down": "pti:blocks/blockcasing_blackquartz"
+  }
+}

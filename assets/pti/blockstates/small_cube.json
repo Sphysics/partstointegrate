@@ -1,0 +1,6 @@
+{
+  "variants": {
+	"normal": {"model": "pti:small_cube"},
+	"inventory": {"model": "pti:small_cube"}
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "parent": "block/orientable",
+  "textures": {
+    "top": "pti:blocks/cronusium_ore",
+    "front": "pti:blocks/cronusium_ore",
+    "side": "pti:blocks/cronusium_ore",
+    "down": "pti:blocks/cronusium_ore"
+  }
+}

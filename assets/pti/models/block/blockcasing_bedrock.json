@@ -1,0 +1,9 @@
+{
+  "parent": "block/orientable",
+  "textures": {
+    "top": "pti:blocks/blockcasing_bedrock",
+    "front": "pti:blocks/blockcasing_bedrock",
+    "side": "pti:blocks/blockcasing_bedrock",
+    "down": "pti:blocks/blockcasing_bedrock"
+  }
+}
